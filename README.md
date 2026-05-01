@@ -135,7 +135,7 @@ laundry-ceria/
 ## 🗺️ Roadmap Pengembangan
 
 - [x] **Tahap 1** — Setup CI4 & Struktur Folder
-- [ ] **Tahap 2** — Database Design & Migrasi
+- [x] **Tahap 2** — Database Design & Migrasi
 - [ ] **Tahap 3** — Autentikasi & Login Multi-Role + Session Cabang
 - [ ] **Tahap 4** — Layout & Template (Sidebar, Navbar per Role)
 - [ ] **Tahap 5** — Dashboard (Jam, Tanggal, Chart)
