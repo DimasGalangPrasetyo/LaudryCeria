@@ -8,6 +8,9 @@ class DashboardController extends BaseController
 {
     public function index()
     {
-        return 'Dashboard Owner — Coming Soon';
+        $data = [
+            'title' => 'Dashboard — Owner',
+        ];
+        return view('owner/dashboard', $data);
     }
 }
